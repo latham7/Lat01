@@ -1,0 +1,7 @@
+name: Lat01
+version: ${project.version}
+main: xyz.latham.Lat01
+api-version: 1.13
+authors: [Latham]
+description: Latham.xyz First Plugin
+website: Latham.xyz
