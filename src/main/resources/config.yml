@@ -1,1 +1,9 @@
-message: 'Welcome to the Server!'
+### Latham.xyz ###
+
+## Join Messages ##
+
+# Message when a player joins the server for the first time
+firstJoinMessage: '&a<player> joined for the first time!'
+
+joinMessage: '&a<player> &fhas joined the Server'
+quitMessage: '&a<player> &fhas left the Server'
